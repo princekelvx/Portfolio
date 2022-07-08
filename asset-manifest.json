@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dbe1eda0.css",
+    "main.js": "/static/js/main.902c7713.js",
+    "static/media/Elianto-Regular.otf": "/static/media/Elianto-Regular.b2a163b884fad7a9731b.otf",
+    "static/media/Ailerons-Typeface.otf": "/static/media/Ailerons-Typeface.29602053d4de24fcf29c.otf",
+    "index.html": "/index.html",
+    "static/media/icon-close.svg": "/static/media/icon-close.409b12ce0b55ae7b46a14a0702f1ae33.svg",
+    "static/media/icon-hamburger.svg": "/static/media/icon-hamburger.5153cb809501d4309c231954bc0f9ec2.svg",
+    "main.dbe1eda0.css.map": "/static/css/main.dbe1eda0.css.map",
+    "main.902c7713.js.map": "/static/js/main.902c7713.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbe1eda0.css",
+    "static/js/main.902c7713.js"
+  ]
+}
